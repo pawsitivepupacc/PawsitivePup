@@ -32,6 +32,13 @@ export default function Newsletter() {
         {/* Redirect after success */}
         <input type="hidden" name="ml-confirm" value="https://pawsitive-pup-xta3.vercel.app//thank-you" />
 
+        <input 
+          type="hidden" 
+          name="ml-confirm" 
+          value="https://pawsitive-pup-xta3.vercel.app//thank-you" 
+        />
+
+        
         <button
           type="submit"
           className="px-4 py-2 bg-green-600 text-white rounded-md hover:bg-green-700"
