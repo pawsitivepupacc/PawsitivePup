@@ -1,0 +1,30 @@
+name: Scheduled Draft Publisher
+
+on:
+  schedule:
+    - cron: "0 9 * * *"  # 09:00 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Move oldest draft to posts (if any)
+        run: |
+          set -e
+          if [ -z "$(ls -A drafts 2>/dev/null)" ]; then
+            echo "No drafts to publish."
+            exit 0
+          fi
+          OLDEST=$(ls -t drafts | tail -n 1)
+          echo "Publishing $OLDEST"
+          git mv "drafts/$OLDEST" "posts/$OLDEST"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Auto-publish: $OLDEST"
+          git push
