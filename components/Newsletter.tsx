@@ -1,5 +1,3 @@
-'use client';
-
 export default function Newsletter() {
   return (
     <div className="card">
@@ -12,18 +10,27 @@ export default function Newsletter() {
         action="https://assets.mailerlite.com/jsonp/1809886/forms/166195735117694525/subscribe"
         method="post"
         target="_blank"
-        className="mt-3 flex gap-2"
+        className="flex flex-col gap-3 mt-3"
       >
+        {/* Name field */}
+        <input
+          type="text"
+          name="fields[name]"
+          placeholder="Your Name"
+          className="px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500"
+        />
+
+        {/* Email field */}
         <input
           type="email"
           name="fields[email]"
           placeholder="you@example.com"
           required
-          className="flex-1 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500"
+          className="px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-green-500"
         />
-        {/* MailerLite expects these hidden fields */}
-        <input type="hidden" name="ml-submit" value="1" />
-        <input type="hidden" name="anticsrf" value="true" />
+
+        {/* Redirect after success */}
+        <input type="hidden" name="ml-confirm" value="https://pawsitive-pup-xta3.vercel.app//thank-you" />
 
         <button
           type="submit"
@@ -37,5 +44,5 @@ export default function Newsletter() {
         We respect your privacy. Unsubscribe anytime.
       </p>
     </div>
-  );
+  )
 }
