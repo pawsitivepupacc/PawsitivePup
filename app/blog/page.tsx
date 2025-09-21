@@ -1,16 +1,26 @@
-import PostCard from '@/components/PostCard'
-import { listPosts } from '@/lib/posts'
+import { listPosts, getPost } from '@/lib/posts'
+import AdSenseBox from '@/components/AdSense'
 
-export const metadata = { title: 'Blog – Pawsitive Pup' }
+// Tell Next "all params are known at build"
+export const dynamicParams = false
 
-export default function BlogPage() {
+// Pre-generate all blog slugs for static export
+export function generateStaticParams() {
   const posts = listPosts()
+  return posts.map((p: any) => ({ slug: p.slug }))
+}
+
+export default async function PostPage({ params }: { params: { slug: string } }) {
+  const post = await getPost(params.slug)
   return (
-    <div className="space-y-4">
-      <h1 className="text-2xl font-bold">Latest Articles</h1>
-      <div className="grid md:grid-cols-2 gap-4">
-        {posts.map((p:any) => <PostCard key={p.slug} post={p} />)}
+    <article className="prose card">
+      <h1>{post.data.title}</h1>
+      <div className="text-sm text-gray-500">{post.data.date}</div>
+      <img src={post.data.hero || '/images/puppy-hero.svg'} alt="" className="w-full rounded-xl my-4" />
+      <div dangerouslySetInnerHTML={{ __html: post.content }} />
+      <div className="my-6">
+        <AdSenseBox />
       </div>
-    </div>
+    </article>
   )
 }
