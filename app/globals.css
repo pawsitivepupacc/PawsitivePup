@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #f9f7f3;
+  --fg: #1f2937;
+  --accent: #6b8e23;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--fg);
+}
+a { text-decoration: none; }
+.container { max-width: 1100px; margin: 0 auto; padding: 1rem; }
+.prose p { margin: 0.75rem 0; line-height: 1.7; }
+.prose h2 { font-size: 1.5rem; font-weight: 700; margin-top: 1.5rem; }
+.prose ul { list-style: disc; margin-left: 1.5rem; }
+.prose li { margin: 0.25rem 0; }
+.card { background: white; border-radius: 1rem; padding: 1rem; box-shadow: 0 6px 16px rgba(0,0,0,0.06); }

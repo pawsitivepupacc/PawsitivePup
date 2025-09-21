@@ -1,0 +1,13 @@
+<svg width="512" height="256" viewBox="0 0 512 256" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="256" fill="#f0efe9"/>
+  <g transform="translate(80,40)">
+    <ellipse cx="120" cy="120" rx="70" ry="50" fill="#6b8e23" opacity="0.2"/>
+    <circle cx="120" cy="90" r="40" fill="#6b8e23"/>
+    <rect x="90" y="120" width="60" height="35" rx="10" fill="#6b8e23"/>
+    <circle cx="105" cy="85" r="5" fill="#1f2937"/>
+    <circle cx="135" cy="85" r="5" fill="#1f2937"/>
+    <path d="M110 105 Q120 115 130 105" stroke="#1f2937" stroke-width="3" fill="none"/>
+  </g>
+  <text x="260" y="130" font-size="28" fill="#1f2937" font-family="Arial">Pawsitive Pup</text>
+  <text x="260" y="160" font-size="16" fill="#5b6b7a" font-family="Arial">Train. Care. Choose Better.</text>
+</svg>
