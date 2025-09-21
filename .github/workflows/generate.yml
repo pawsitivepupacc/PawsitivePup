@@ -1,0 +1,37 @@
+name: Generate New Draft
+
+on:
+  schedule:
+    - cron: "30 8 * * *"  # 08:30 UTC daily
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Ensure Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Count drafts
+        id: count
+        run: |
+          echo "count=$(ls -1 drafts/*.md 2>/dev/null | wc -l || echo 0)" >> $GITHUB_OUTPUT
+      - name: Generate new draft if queue low
+        if: steps.count.outputs.count == '0' || steps.count.outputs.count == '1' || steps.count.outputs.count == '2' || steps.count.outputs.count == '3'
+        run: |
+          python scripts/generate_drafts.py
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add -A
+            git commit -m "Auto-generate new draft"
+            git push
+          else
+            echo "No changes to commit."
+          fi
