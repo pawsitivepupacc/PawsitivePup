@@ -1,11 +1,11 @@
-    ---
+---
     title: "Puppy Sleep Schedules: Routines That Work"
     date: "2025-10-17"
     excerpt: "Puppy Sleep Schedules — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Puppy Sleep Schedules — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Puppy Sleep Schedules — practical tips, step-by-step plans, and product suggestions for dog owners.
 
