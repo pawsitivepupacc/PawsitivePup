@@ -1,11 +1,11 @@
-    ---
+---
     title: "How to Teach a Reliable Recall (Come) in 3 Weeks"
     date: "2025-09-24"
     excerpt: "How to Teach a Reliable Recall (Come) in 3 Weeks — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "How to Teach a Reliable Recall (Come) in 3 Weeks — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     How to Teach a Reliable Recall (Come) in 3 Weeks — practical tips, step-by-step plans, and product suggestions for dog owners.
 
