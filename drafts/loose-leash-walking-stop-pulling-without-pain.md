@@ -1,11 +1,11 @@
-    ---
+---
     title: "Loose-Leash Walking: Stop Pulling Without Pain"
     date: "2025-09-26"
     excerpt: "Loose-Leash Walking — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Loose-Leash Walking — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Loose-Leash Walking — practical tips, step-by-step plans, and product suggestions for dog owners.
 
