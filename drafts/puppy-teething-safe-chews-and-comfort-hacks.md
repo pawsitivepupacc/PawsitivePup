@@ -1,11 +1,11 @@
-    ---
+---
     title: "Puppy Teething: Safe Chews and Comfort Hacks"
     date: "2025-10-08"
     excerpt: "Puppy Teething — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Puppy Teething — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Puppy Teething — practical tips, step-by-step plans, and product suggestions for dog owners.
 
