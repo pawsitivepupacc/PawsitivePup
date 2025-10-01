@@ -1,6 +1,6 @@
 ---
     title: "Agility Basics at Home: Setups for Small Spaces"
-    date: "2025-10-19"
+    date: "2025-19-10"
     excerpt: "Agility Basics at Home — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
