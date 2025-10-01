@@ -1,11 +1,11 @@
-    ---
+---
     title: "Dog Weight Management: Safe Ways to Lose Pounds"
-    date: "2025-10-14"
+    date: "14-09-2025"
     excerpt: "Dog Weight Management — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Dog Weight Management — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Dog Weight Management — practical tips, step-by-step plans, and product suggestions for dog owners.
 
