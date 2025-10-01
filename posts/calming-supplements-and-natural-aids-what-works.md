@@ -1,11 +1,11 @@
-    ---
+---
     title: "Calming Supplements & Natural Aids: What Works?"
-    date: "2025-10-15"
+    date: "15-10-2025"
     excerpt: "Calming Supplements & Natural Aids — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Calming Supplements & Natural Aids — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Calming Supplements & Natural Aids — practical tips, step-by-step plans, and product suggestions for dog owners.
 
