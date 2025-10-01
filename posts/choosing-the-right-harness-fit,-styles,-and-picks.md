@@ -1,11 +1,11 @@
-    ---
+---
     title: "Choosing the Right Harness: Fit, Styles, and Picks"
-    date: "2025-10-10"
+    date: "10-10-2025"
     excerpt: "Choosing the Right Harness — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Choosing the Right Harness — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Choosing the Right Harness — practical tips, step-by-step plans, and product suggestions for dog owners.
 
