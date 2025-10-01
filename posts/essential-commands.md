@@ -1,6 +1,6 @@
 ---
 title: "5 Essential Commands Every Puppy Should Learn"
-date: "2025-09-21"
+date: "21-09-2025"
 excerpt: "Start your puppy off right with five simple, humane commands that build good habits for life."
 hero: "/images/puppy-hero.svg"
 ---
