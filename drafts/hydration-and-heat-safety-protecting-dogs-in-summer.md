@@ -1,11 +1,11 @@
-    ---
+---
     title: "Hydration & Heat Safety: Protecting Dogs in Summer"
     date: "2025-10-18"
     excerpt: "Hydration & Heat Safety — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Hydration & Heat Safety — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Hydration & Heat Safety — practical tips, step-by-step plans, and product suggestions for dog owners.
 
