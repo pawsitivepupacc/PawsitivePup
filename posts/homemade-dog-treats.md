@@ -1,6 +1,6 @@
 ---
 title: "Homemade Dog Treats Your Pup Will Love"
-date: "2025-09-15"
+date: "15-09-2025"
 excerpt: "Three simple recipes with pantry ingredients and no additives."
 hero: "/images/treats-hero.svg"
 ---
