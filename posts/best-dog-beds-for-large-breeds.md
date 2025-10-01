@@ -1,6 +1,6 @@
 ---
 title: "Best Dog Beds for Large Breeds (2025 Review)"
-date: "2025-09-18"
+date: "18-09-2025"
 excerpt: "Orthopedic, washable, and durable picks that support joints and last longer."
 hero: "/images/bed-hero.svg"
 ---
