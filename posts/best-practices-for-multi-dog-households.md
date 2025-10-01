@@ -1,11 +1,11 @@
-    ---
+---
     title: "Best Practices for Multi-Dog Households"
-    date: "2025-10-21"
+    date: "21-10-2025"
     excerpt: "Best Practices for Multi-Dog Households — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Best Practices for Multi-Dog Households — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Best Practices for Multi-Dog Households — practical tips, step-by-step plans, and product suggestions for dog owners.
 
