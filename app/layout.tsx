@@ -31,9 +31,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <span>© {new Date().getFullYear()} Pawsitive Pup</span>
             </div>
             <div className="flex gap-4">
-              <a href="/privacy">Privacy</a>
-              <a href="/robots.txt">Robots</a>
-              <a href="/sitemap.xml">Sitemap</a>
+              <Link href="/privacy">Privacy</Link>
+              <Link href="/robots.txt">Robots</Link>
+              <Link href="/sitemap.xml">Sitemap</Link>
             </div>
           </div>
         </footer>
