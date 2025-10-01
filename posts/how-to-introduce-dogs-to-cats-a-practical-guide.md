@@ -19,10 +19,6 @@ Dogs rely on predictable routines and clear communication. This guide gives prac
 4. **Practice gradually:** Increase difficulty in short intervals.
 5. **Manage the environment:** Remove distractions for early sessions.
 
-### Recommended tools (affiliate)
-- Treat pouch: replace with your affiliate link — `https://www.amazon.com/dp/EXAMPLE?tag=AFFILIATE_TAG`
-- Training clicker: `https://www.amazon.com/dp/CLICKER?tag=AFFILIATE_TAG`
-
 ### Troubleshooting
 If you hit a plateau, slow down and return to the previous step. Always finish a session on a win and keep training positive.
 
