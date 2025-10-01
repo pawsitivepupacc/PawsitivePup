@@ -1,11 +1,11 @@
-    ---
+---
     title: "Best Dog Beds for Different Ages and Sizes"
     date: "2025-10-02"
     excerpt: "Best Dog Beds for Different Ages and Sizes — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Best Dog Beds for Different Ages and Sizes — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Best Dog Beds for Different Ages and Sizes — practical tips, step-by-step plans, and product suggestions for dog owners.
 
