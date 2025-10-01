@@ -1,11 +1,11 @@
-    ---
+---
     title: "Grooming Basics: Bathing, Nail Trimming, and Ears"
     date: "2025-10-09"
     excerpt: "Grooming Basics — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Grooming Basics — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Grooming Basics — practical tips, step-by-step plans, and product suggestions for dog owners.
 
