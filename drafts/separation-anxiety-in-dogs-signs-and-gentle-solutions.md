@@ -1,11 +1,11 @@
-    ---
+---
     title: "Separation Anxiety in Dogs: Signs and Gentle Solutions"
     date: "2025-09-23"
     excerpt: "Separation Anxiety in Dogs — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Separation Anxiety in Dogs — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Separation Anxiety in Dogs — practical tips, step-by-step plans, and product suggestions for dog owners.
 
