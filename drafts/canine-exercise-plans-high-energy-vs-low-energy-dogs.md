@@ -1,11 +1,11 @@
-    ---
+---
     title: "Canine Exercise Plans: High-Energy vs Low-Energy Dogs"
     date: "2025-10-11"
     excerpt: "Canine Exercise Plans — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Canine Exercise Plans — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Canine Exercise Plans — practical tips, step-by-step plans, and product suggestions for dog owners.
 
