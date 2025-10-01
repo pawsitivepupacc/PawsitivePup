@@ -1,11 +1,11 @@
-    ---
+---
     title: "Top 10 Interactive Dog Toys for Busy Owners"
     date: "2025-10-03"
     excerpt: "Top 10 Interactive Dog Toys for Busy Owners — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Top 10 Interactive Dog Toys for Busy Owners — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Top 10 Interactive Dog Toys for Busy Owners — practical tips, step-by-step plans, and product suggestions for dog owners.
 
