@@ -1,11 +1,11 @@
-    ---
+---
     title: "Feeding Guide: Kibble, Wet, Raw — What to Choose?"
-    date: "2025-09-29"
+    date: "29-09-2025"
     excerpt: "Feeding Guide — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Feeding Guide — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Feeding Guide — practical tips, step-by-step plans, and product suggestions for dog owners.
 
