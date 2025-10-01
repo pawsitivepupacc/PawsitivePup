@@ -1,11 +1,11 @@
-    ---
+---
     title: "Food Allergies in Dogs: Signs, Tests, and Diet Fixes"
     date: "2025-10-07"
     excerpt: "Food Allergies in Dogs — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Food Allergies in Dogs — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Food Allergies in Dogs — practical tips, step-by-step plans, and product suggestions for dog owners.
 
