@@ -1,11 +1,11 @@
-    ---
+---
     title: "Traveling with Your Dog: Checklist & Safety Tips"
     date: "2025-10-04"
     excerpt: "Traveling with Your Dog — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Traveling with Your Dog — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Traveling with Your Dog — practical tips, step-by-step plans, and product suggestions for dog owners.
 
