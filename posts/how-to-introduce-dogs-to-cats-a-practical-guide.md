@@ -1,10 +1,10 @@
 ---
-    title: "How to Introduce Dogs to Cats: A Practical Guide"
-    date: "20-09-2025"
-    excerpt: "How to Introduce Dogs to Cats — practical tips, step-by-step plans, and product suggestions for dog owners."
-    hero: "/images/puppy-hero.svg"
-    keywords: ["dogs","training","puppy","pawsitive pup"]
-    meta_description: "How to Introduce Dogs to Cats — practical tips, step-by-step plans, and product suggestions for dog owners."
+title: "How to Introduce Dogs to Cats: A Practical Guide"
+date: "20-09-2025"
+excerpt: "How to Introduce Dogs to Cats — practical tips, step-by-step plans, and product suggestions for dog owners."
+hero: "/images/puppy-hero.svg"
+keywords: ["dogs","training","puppy","pawsitive pup"]
+meta_description: "How to Introduce Dogs to Cats — practical tips, step-by-step plans, and product suggestions for dog owners."
  ---
 
     How to Introduce Dogs to Cats — practical tips, step-by-step plans, and product suggestions for dog owners.
