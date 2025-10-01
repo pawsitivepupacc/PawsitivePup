@@ -1,11 +1,11 @@
-    ---
+---
     title: "Homemade Dog Food Safely: Recipes + Nutrition Notes"
     date: "2025-09-30"
     excerpt: "Homemade Dog Food Safely — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Homemade Dog Food Safely — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Homemade Dog Food Safely — practical tips, step-by-step plans, and product suggestions for dog owners.
 
