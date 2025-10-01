@@ -1,11 +1,11 @@
-    ---
+---
     title: "Understanding Canine Body Language: Key Signals"
     date: "2025-10-20"
     excerpt: "Understanding Canine Body Language — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Understanding Canine Body Language — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Understanding Canine Body Language — practical tips, step-by-step plans, and product suggestions for dog owners.
 
