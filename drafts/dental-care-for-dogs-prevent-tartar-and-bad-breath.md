@@ -1,11 +1,11 @@
-    ---
+---
     title: "Dental Care for Dogs: Prevent Tartar & Bad Breath"
     date: "2025-10-01"
     excerpt: "Dental Care for Dogs — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Dental Care for Dogs — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Dental Care for Dogs — practical tips, step-by-step plans, and product suggestions for dog owners.
 
