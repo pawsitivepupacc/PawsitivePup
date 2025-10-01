@@ -1,11 +1,11 @@
-    ---
+---
     title: "Dog First Aid Kit: What Every Owner Should Have"
-    date: "2025-10-06"
+    date: "22-10-2025"
     excerpt: "Dog First Aid Kit — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Dog First Aid Kit — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Dog First Aid Kit — practical tips, step-by-step plans, and product suggestions for dog owners.
 
