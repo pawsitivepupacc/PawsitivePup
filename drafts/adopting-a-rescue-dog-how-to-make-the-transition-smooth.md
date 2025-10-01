@@ -1,11 +1,11 @@
-    ---
+---
     title: "Adopting a Rescue Dog: How to Make the Transition Smooth"
     date: "2025-10-12"
     excerpt: "Adopting a Rescue Dog — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Adopting a Rescue Dog — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Adopting a Rescue Dog — practical tips, step-by-step plans, and product suggestions for dog owners.
 
