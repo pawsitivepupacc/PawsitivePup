@@ -1,11 +1,11 @@
-    ---
+---
     title: "Housebreaking Your Puppy: A Calm, Step-by-Step Plan"
     date: "2025-09-22"
     excerpt: "Housebreaking Your Puppy — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Housebreaking Your Puppy — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Housebreaking Your Puppy — practical tips, step-by-step plans, and product suggestions for dog owners.
 
