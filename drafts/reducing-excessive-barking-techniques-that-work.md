@@ -1,11 +1,10 @@
-    ---
-    title: "Reducing Excessive Barking: Techniques That Work"
+        title: "Reducing Excessive Barking: Techniques That Work"
     date: "2025-09-27"
     excerpt: "Reducing Excessive Barking — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Reducing Excessive Barking — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Reducing Excessive Barking — practical tips, step-by-step plans, and product suggestions for dog owners.
 
