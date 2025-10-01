@@ -1,11 +1,11 @@
-    ---
+---
     title: "Puppy Socialization: A Safe First 12 Weeks Guide"
     date: "2025-09-28"
     excerpt: "Puppy Socialization — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Puppy Socialization — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Puppy Socialization — practical tips, step-by-step plans, and product suggestions for dog owners.
 
