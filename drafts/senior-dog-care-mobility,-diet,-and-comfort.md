@@ -1,11 +1,11 @@
-    ---
+---
     title: "Senior Dog Care: Mobility, Diet, & Comfort"
     date: "2025-10-05"
     excerpt: "Senior Dog Care — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Senior Dog Care — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Senior Dog Care — practical tips, step-by-step plans, and product suggestions for dog owners.
 
