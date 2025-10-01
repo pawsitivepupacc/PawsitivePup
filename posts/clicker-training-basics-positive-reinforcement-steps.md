@@ -1,11 +1,11 @@
-    ---
+---
     title: "Clicker Training Basics: Positive Reinforcement Steps"
-    date: "2025-10-13"
+    date: "15-10-2025"
     excerpt: "Clicker Training Basics — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Clicker Training Basics — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Clicker Training Basics — practical tips, step-by-step plans, and product suggestions for dog owners.
 
