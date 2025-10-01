@@ -1,11 +1,11 @@
-    ---
+---
     title: "Crate Training Overnight: Comfort-First Method"
     date: "2025-09-25"
     excerpt: "Crate Training Overnight — practical tips, step-by-step plans, and product suggestions for dog owners."
     hero: "/images/puppy-hero.svg"
     keywords: ["dogs","training","puppy","pawsitive pup"]
     meta_description: "Crate Training Overnight — practical tips, step-by-step plans, and product suggestions for dog owners."
-    ---
+---
 
     Crate Training Overnight — practical tips, step-by-step plans, and product suggestions for dog owners.
 
